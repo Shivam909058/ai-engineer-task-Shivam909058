@@ -1,0 +1,88 @@
+{
+  "document": "test_articles_of_association.docx",
+  "document_type": "Articles of Association",
+  "issues_count": 9,
+  "issues": [
+    {
+      "section": "laws of the UAE Federal Courts",
+      "issue": "Wrong jurisdiction for governing law",
+      "severity": "High",
+      "suggestion": "Should be governed by ADGM laws",
+      "citation": "ADGM Commercial Licensing Regulations 2015",
+      "section_index": 0,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "exclusive jurisdiction of the Dubai Courts",
+      "issue": "Incorrect jurisdiction for disputes",
+      "severity": "High",
+      "suggestion": "Should be ADGM Courts",
+      "citation": "ADGM Commercial Licensing Regulations 2015",
+      "section_index": 0,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "The Company is incorporated under the laws of the ",
+      "issue": "Misleading incorporation jurisdiction",
+      "severity": "High",
+      "suggestion": "Should specify incorporation under ADGM regulations",
+      "citation": "ADGM Companies Regulations 2020",
+      "section_index": 0,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "The Company shall have at least one director.",
+      "issue": "Minimum number of directors not compliant",
+      "severity": "High",
+      "suggestion": "Increase the minimum number of directors to two, as per ADGM requirements.",
+      "citation": "Companies Regulations 2020, section 137(1)",
+      "section_index": 1,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "quorum for directors' meetings shall be determined",
+      "issue": "Lack of specific quorum requirement for directors' meetings",
+      "severity": "High",
+      "suggestion": "Specify a quorum for directors' meetings, not less than two directors, to comply with ADGM regulations.",
+      "citation": "Companies Regulations 2020, section 94(2)",
+      "section_index": 1,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "Meetings may be called by any director with 7 days",
+      "issue": "Non-compliant notice period for directors' meetings",
+      "severity": "Medium",
+      "suggestion": "Adjust the notice period to comply with ADGM's minimum requirement.",
+      "citation": "Companies Regulations 2020, section 94(3)",
+      "section_index": 1,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "liquidation shall be conducted according to UAE Fe",
+      "issue": "Wrong jurisdiction for liquidation process",
+      "severity": "High",
+      "suggestion": "Should be conducted according to ADGM regulations",
+      "citation": "ADGM Companies Regulations",
+      "section_index": 2,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "The directors shall keep proper books of account.",
+      "issue": "Lacks specificity on accounting standards",
+      "severity": "High",
+      "suggestion": "Specify adherence to ADGM approved accounting standards",
+      "citation": "ADGM Companies Regulations",
+      "section_index": 2,
+      "document": "test_articles_of_association.docx"
+    },
+    {
+      "section": "The financial year shall end on 31st December each",
+      "issue": "Missing flexibility for financial year end",
+      "severity": "Medium",
+      "suggestion": "Allow for a different financial year end if approved by members",
+      "citation": "ADGM Companies Regulations",
+      "section_index": 2,
+      "document": "test_articles_of_association.docx"
+    }
+  ]
+}
