@@ -5,8 +5,23 @@
 [![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-orange.svg)](https://pinecone.io)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-brightgreen.svg)](https://shivam909058-ai-engineer-task-shivam909058-main-app-p6ampt.streamlit.app/)
 
 > **An intelligent legal document reviewer specifically designed for Abu Dhabi Global Market (ADGM) compliance.**
+
+## 🌐 **Live Demo**
+
+### 🚀 **[Try the ADGM Corporate Agent Live](https://shivam909058-ai-engineer-task-shivam909058-main-app-p6ampt.streamlit.app/)**
+
+**✨ Experience the full system in action:**
+- Upload your DOCX legal documents
+- Get instant ADGM compliance analysis
+- Download professionally annotated documents
+- Generate comprehensive JSON reports
+
+> **Note**: You'll need your own OpenAI and Pinecone API keys to use the live demo. See [Setup Instructions](#-quick-start) below.
+
+---
 
 Transform your legal document review process with AI-powered compliance checking that identifies issues, suggests corrections, and ensures ADGM regulatory adherence.
 
