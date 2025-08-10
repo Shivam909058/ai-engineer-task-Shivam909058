@@ -1,6 +1,6 @@
 streamlit>=1.31.0
 openai>=1.12.0
-pinecone-client>=3.0.0
+pinecone>=3.0.3
 python-dotenv>=1.0.1
 python-docx>=1.1.0
 PyMuPDF>=1.23.22
